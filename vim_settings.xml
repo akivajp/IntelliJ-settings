@@ -25,7 +25,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/flutter_app/lib/main.dart" timestamp="1601702498436">
+      <file name="C:/tools/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1601703716399">
+        <mark key="'" line="1980" column="24" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/flutter_app/pubspec.yaml" timestamp="1601703920019" />
+      <file name="$USER_HOME$/AndroidStudioProjects/flutter_app/lib/main.dart" timestamp="1601703744815">
         <mark key="'" line="6" column="36" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -35,10 +42,17 @@
     <jumps>
       <jump line="113" column="0" filename="$USER_HOME$/AndroidStudioProjects/flutter_app/lib/main.dart" />
       <jump line="6" column="36" filename="$USER_HOME$/AndroidStudioProjects/flutter_app/lib/main.dart" />
+      <jump line="1980" column="24" filename="C:/tools/flutter/packages/flutter/lib/src/widgets/framework.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
