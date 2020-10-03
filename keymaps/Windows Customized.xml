@@ -1,0 +1,23 @@
+<keymap version="1" name="Windows Customized" parent="$default">
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="FileStructurePopup" />
+  <action id="JumpToLastWindow" />
+  <action id="RestoreDefaultLayout" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift f12" />
+  </action>
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+</keymap>
