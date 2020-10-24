@@ -37,11 +37,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/flutter_app2/lib/main.dart" timestamp="1603518111446">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="5" column="13" />
+      <file name="$USER_HOME$/AndroidStudioProjects/flutter_app2/lib/main.dart" timestamp="1603518417975">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/tools/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1601703716399">
         <mark key="'" line="1980" column="24" />
@@ -71,8 +70,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>before</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcmludCgiYWZ0ZXIiKTsK</text>
       </register>
       <register name="-" type="4">
         <text>before</text>
@@ -81,31 +80,31 @@
         <text encoding="base64">ICBwcmludCgiYmVmb3JlIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludAo=</text>
+        <text encoding="base64">ICBwcmludCgiYWZ0ZXIiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlCg==</text>
+        <text encoding="base64">ICBwcmludCgiYmVmb3JlIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NoaWxkOiBJY29uKEltYWdlLm5ldHdvcmsoJ2h0dHBzOi8vd3d3LmFuaWNvbS1zb21wby5jby5qcC9uZWtvbm9zaGlvcmkvd3AtY29udGVudC91cGxvYWRzLzIwMjAvMDUvMzQ1M18xMC03NDB4NTI0LmpwZycpKSwKICAgICAgICAvL2NoaWxkOiBJbWFnZS5uZXR3b3JrKCdodHRwczovL3d3dy5hbmljb20tc29tcG8uY28uanAvbmVrb25vc2hpb3JpL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIwLzA1LzM0NTNfMTAtNzQweDUyNC5qcGcnKSwK</text>
+        <text encoding="base64">ICBwcmludAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzdHlsZTogVGhlbWUub2YoY29udGV4dCkudGV4dFRoZW1lLmhlYWRsaW5lNCwK</text>
+        <text encoding="base64">ICBjb25zb2xlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvL2NoaWxkOiBJY29uKEltYWdlLm5ldHdvcmsoJ2h0dHBzOi8vd3d3LmFuaWNvbS1zb21wby5jby5qcC9uZWtvbm9zaGlvcmkvd3AtY29udGVudC91cGxvYWRzLzIwMjAvMDUvMzQ1M18xMC03NDB4NTI0LmpwZycpKSwKICAgICAgICAvL2NoaWxkOiBJbWFnZS5uZXR3b3JrKCdodHRwczovL3d3dy5hbmljb20tc29tcG8uY28uanAvbmVrb25vc2hpb3JpL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDIwLzA1LzM0NTNfMTAtNzQweDUyNC5qcGcnKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2aXN1YWxEZW5zaXR5OiBWaXN1YWxEZW5zaXR5LmFkYXB0aXZlUGxhdGZvcm1EZW5zaXR5LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzdHlsZTogVGhlbWUub2YoY29udGV4dCkudGV4dFRoZW1lLmhlYWRsaW5lNCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL3Zpc3VhbERlbnNpdHk6IFZpc3VhbERlbnNpdHkuLAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmltYXJ5U3dhdGNoOiBDb2xvcnMucGluaywK</text>
+        <text encoding="base64">ICAgICAgICB2aXN1YWxEZW5zaXR5OiBWaXN1YWxEZW5zaXR5LmFkYXB0aXZlUGxhdGZvcm1EZW5zaXR5LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8ggrGC6oLNg1KDgYOTg2eCxYK3CgovKgqBQIKxguqC4INSg4GDk4NngsWCtwogIILcgr6DUoOBg5ODZ4KqkbGCooLEgqKC3IK3CiovCgo=</text>
+        <text encoding="base64">ICAgICAgICAvL3Zpc3VhbERlbnNpdHk6IFZpc3VhbERlbnNpdHkuLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
