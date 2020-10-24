@@ -40,12 +40,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/flutter_app/lib/main.dart" timestamp="1603516514578">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="3" column="16" />
-        <mark key="." line="3" column="15" />
-        <mark key="^" line="3" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/flutter_app/lib/main.dart" timestamp="1603517239118">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="2" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -56,15 +56,17 @@
       <jump line="60" column="0" filename="$USER_HOME$/AndroidStudioProjects/flutter_app/lib/main.dart" />
       <jump line="50" column="18" filename="$USER_HOME$/AndroidStudioProjects/flutter_app/lib/main.dart" />
       <jump line="6" column="0" filename="$USER_HOME$/AndroidStudioProjects/flutter_app/lib/main.dart" />
+      <jump line="7" column="10" filename="$USER_HOME$/AndroidStudioProjects/flutter_app/lib/main.dart" />
+      <jump line="4" column="0" filename="$USER_HOME$/AndroidStudioProjects/flutter_app/lib/main.dart" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcmludAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB2b2lkIF9pbmNyZW1lbnRDb3VudGVyKCkgewogICAgc2V0U3RhdGUoKCkgewogICAgICBfY291bnRlcisrOwogICAgfSk7CiAgfQoK</text>
